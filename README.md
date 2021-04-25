@@ -1,2 +1,2 @@
-# haider
-my code and ibm data science course
+# Haider Abbas
+My code and IBM Data Science course
